@@ -1,6 +1,6 @@
 # Leaflet Map Test
 
-This project demonstrates the use of the Leaflet library to create an interactive map with various features such as locating the user's position, displaying a legend, and showing a disclaimer on hover.
+This project demonstrates the use of the Leaflet library to create an interactive map with various features such as locating the user's position, displaying a legend with show/hide layers from geojson, and showing a disclaimer on hover.
 
 ![Leaflet Map Sample](Leaflet%20Map%20sample.jpeg)
 
@@ -40,6 +40,7 @@ Interact with the map:
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## Acknowledgements
+- [Leaflet](https://leafletjs.com/)
 - [Layer Control](https://leafletjs.com/examples/layers-control/)
 - [GeoJson Chloreopath](https://leafletjs.com/examples/choropleth/)
 - [WMS Web map Service](https://leafletjs.com/examples/wms/wms.html)
@@ -47,3 +48,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - [Marker cluster](https://github.com/Leaflet/Leaflet.markercluster)
 - [Data Classification](https://github.com/balladaniel/leaflet-dataclassification)
 - [Leaflet Locate](https://github.com/domoritz/leaflet-locatecontrol)
+- [GeoJson Editor Playground](https://geojson.io/)
