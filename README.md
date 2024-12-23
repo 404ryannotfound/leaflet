@@ -10,6 +10,8 @@ This project demonstrates the use of the Leaflet library to create an interactiv
 - Base layers including OpenStreetMap and Esri World Imagery
 - Locate control to find and display the user's location
 - Legend for data classification
+- Display checkboxes for each "category" automatically from the geojson
+- Marker clustering
 - Disclaimer panel that appears on hover
 
 ## Getting Started
@@ -40,5 +42,10 @@ Interact with the map:
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 Acknowledgements
-Leaflet
-OpenStreetMap
+[Layer Control](https://leafletjs.com/examples/layers-control/)
+[GeoJson Chloreopath](https://leafletjs.com/examples/choropleth/)
+[WMS Web map Service](https://leafletjs.com/examples/wms/wms.html)
+[GeoJson Data](https://leafletjs.com/examples/geojson/)
+[Marker cluster](https://github.com/Leaflet/Leaflet.markercluster)
+[Data Classification](https://github.com/balladaniel/leaflet-dataclassification)
+[Leaflet Locate](https://github.com/domoritz/leaflet-locatecontrol)
