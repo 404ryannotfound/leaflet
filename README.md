@@ -27,25 +27,23 @@ This project demonstrates the use of the Leaflet library to create an interactiv
    ```bash
    git clone https://github.com/your-username/leaflet-map-test.git
 
-
-
-
 ## Usage
 Open the Leaflet Map Test.html file in your web browser.
 Interact with the map:
 - Use the locate control to find your location.
 - Hover over the info control to view the disclaimer.
 - Pan and zoom to explore the map.
+- Toggle map layers.
 
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-Acknowledgements
-[Layer Control](https://leafletjs.com/examples/layers-control/)
-[GeoJson Chloreopath](https://leafletjs.com/examples/choropleth/)
-[WMS Web map Service](https://leafletjs.com/examples/wms/wms.html)
-[GeoJson Data](https://leafletjs.com/examples/geojson/)
-[Marker cluster](https://github.com/Leaflet/Leaflet.markercluster)
-[Data Classification](https://github.com/balladaniel/leaflet-dataclassification)
-[Leaflet Locate](https://github.com/domoritz/leaflet-locatecontrol)
+## Acknowledgements
+- [Layer Control](https://leafletjs.com/examples/layers-control/)
+- [GeoJson Chloreopath](https://leafletjs.com/examples/choropleth/)
+- [WMS Web map Service](https://leafletjs.com/examples/wms/wms.html)
+- [GeoJson Data](https://leafletjs.com/examples/geojson/)
+- [Marker cluster](https://github.com/Leaflet/Leaflet.markercluster)
+- [Data Classification](https://github.com/balladaniel/leaflet-dataclassification)
+- [Leaflet Locate](https://github.com/domoritz/leaflet-locatecontrol)
